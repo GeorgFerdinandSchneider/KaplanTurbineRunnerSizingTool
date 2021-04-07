@@ -7,7 +7,7 @@ This repository hosts a script to seize Kaplan turbine runners. This script impl
 
 # Getting Started
 
-For getting started right away I recommend launch [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GeorgFerdinandSchneider/KaplanTurbineRunnerSizingTool/main?filepath=script.ipynb), which allows you to use and edit the script from your browser in a few seconds.
+For getting started right away I recommend launch [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeorgFerdinandSchneider/KaplanTurbineRunnerSizingTool/main?filepath=script.ipynb), which allows you to use and edit the script from your browser in a few seconds.
 
 The calculation script can also be statically inspected in your browser [script.ipynb](script.ipynb).
 
