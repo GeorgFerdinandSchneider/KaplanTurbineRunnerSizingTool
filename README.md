@@ -8,7 +8,13 @@ For getting started right away I recommend launch [![Binder](http://mybinder.org
 
 The calculation script can also be statically inspected in your browser [script.ipynb](script.ipynb).
 
-If you intend to edit the script, I recommend running it on your local machine. This involves setting up python on you local machine with the dependencies as stated in [environment.yml](environment.yml) file. For this purpose I recommend using [Anaconda environment management](https://www.anaconda.com/).
+If you intend to edit the script, I recommend running it on your local machine. This involves setting up python on you local machine with the dependencies as stated in [environment.yml](environment.yml) file. For this purpose I recommend using [Anaconda environment management](https://www.anaconda.com/) and [Jupyter Notebooks](https://jupyter.org/) as described [here](https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a).
+
+Locally, launch jupyter notebook using the following command and inspect the script mentioned above.
+
+```bash
+jupyter notebook
+```
 
 # Literature
 
